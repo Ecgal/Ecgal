@@ -3,8 +3,8 @@ Evan Gallagher:
 
 Projects I have worked on:
 
-C++:
-https://github.com/Ecgal/ShapeDodge2
+GoodStuff: iOS music player app
+https://github.com/Ecgal/GoodStuff-MusicPlayer
 
 
 
