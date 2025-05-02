@@ -3,11 +3,15 @@ Evan Gallagher:
 
 Projects I have worked on:
 
-GoodStuff: iOS music player app
+GoodStuff -  iOS music player app: 
 https://github.com/Ecgal/GoodStuff-MusicPlayer
 
-MSD Script: C++ and Qt
+MSD Script - C++ / Qt: 
 https://github.com/Ecgal/MSDScript
+
+Synthesizer - Java / JavaFX:
+https://github.com/Ecgal/Synthesizer
+
 
 
 
