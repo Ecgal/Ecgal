@@ -6,6 +6,8 @@ Projects I have worked on:
 GoodStuff: iOS music player app
 https://github.com/Ecgal/GoodStuff-MusicPlayer
 
+MSD Script: C++ and Qt
+https://github.com/Ecgal/MSDScript
 
 
 
