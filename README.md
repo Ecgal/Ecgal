@@ -20,7 +20,7 @@ A simple music player app I built in Swift for my father. It’s designed to be 
 ## MSD Script – C++ / Qt 
 GitHub Repo:(https://github.com/Ecgal/MSDScript)
 
-Built a small interpreter for a functional language, with a GUI using Qt. Includes a parser, expression tree evaluator, and a polished editor. This one was all about getting deep into C++ and making something actually usable.
+Built a small interpreter for a functional language, with a GUI using Qt. Includes a parser, expression tree evaluator, and a polished editor.
 
 **Tech:** C++, Qt  
 **Highlights:**
