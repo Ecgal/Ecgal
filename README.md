@@ -17,16 +17,16 @@ A simple music player app I built in Swift for my father. It’s designed to be 
 
 ---
 
-## MSD Script – C++ / Qt 
-GitHub Repo:(https://github.com/Ecgal/MSDScript)
+## MSD Script – Expression Parser in C++  
+GitHub Repo: (https://github.com/Ecgal/MSDScript)
 
-Built a small interpreter for a functional language, with a GUI using Qt. Includes a parser, expression tree evaluator, and a polished editor.
+A lightweight expression parser written in C++ that can handle basic math and variable assignments. You can write things like `x = 10`, then `interp 10 + x`, and it evaluates correctly.
 
 **Tech:** C++, Qt  
 **Highlights:**
-- Expression parsing and evaluation
-- Live code editing in a desktop GUI
-- Focus on readability and structure
+- Parses and evaluates arithmetic expressions
+- Supports variable bindings and interpretation
+- Includes a Qt GUI for basic input/output
 
 ---
 
@@ -35,7 +35,7 @@ GitHub Repo: (https://github.com/Ecgal/Synthesizer)
 
 A desktop synth built in Java that lets you connect different audio components — sine waves, mixers, volume filters — and generate sound in real time. Built from scratch with Java and JavaFX.
 
-**Tech:** Swift, UIKit 
+**Tech:** Java, JavaFX
 **Highlights:**
 - Drag-and-drop modular components
 - Real-time audio output
