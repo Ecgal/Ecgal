@@ -35,6 +35,7 @@ GitHub Repo: (https://github.com/Ecgal/Synthesizer)
 
 A desktop synth built in Java that lets you connect different audio components — sine waves, mixers, volume filters — and generate sound in real time. Built from scratch with Java and JavaFX.
 
+**Tech:** Swift, UIKit 
 **Highlights:**
 - Drag-and-drop modular components
 - Real-time audio output
