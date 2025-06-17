@@ -1,13 +1,13 @@
 # Evan Gallagher – Developer Portfolio
 
-Hey, I’m Evan — a software developer with a background in marketing and product strategy, currently finishing up a Master’s Degree in Software Development. I like building tools that are both functional and user-friendly, especially when there’s some creativity involved. Below are a few projects I’ve built.
+Hey, I’m Evan, a software developer with a background in marketing and product strategy, currently finishing up a Master’s Degree in Software Development. I like building tools that are both functional and user friendly, especially when there’s some creativity involved. Below are a few projects I’ve built.
 
 ---
 
 ## GoodStuff – iOS Music Player  
 GitHub Repo:(https://github.com/Ecgal/GoodStuff-MusicPlayer)
 
-A simple music player app I built in Swift for my father. It’s designed to be clean, minimal, and easy to use — focused on offline playback and a straightforward UI, dessigned with older users in mind.
+A simple music player app I built in Swift for my father. It’s designed to be clean, minimal, and easy to use, focused on offline playback and a straightforward UI, dessigned with older users in mind.
 
 **Tech:** Swift, UIKit  
 **Highlights:**
@@ -44,7 +44,7 @@ A desktop synth built in Java that lets you connect different audio components �
 ---
 
 ## AI Podcast Generator (Still in development) 
-Still finalizing the front end, but the core engine is up and running. This app generates podcast episodes using GPT-style script generation and TTS voices from Azure. It’s built to scale and monetize, with a lot of focus on making the voice sound natural.
+Still finalizing the front end, but the core engine is up and running. This app generates podcast episodes using GPT, style script generation and TTS voices from Azure. It’s built to scale and monetize, with a lot of focus on making the voices sound natural.
 
 **Tech:** React, Java, Azure TTS, Meta LLaMA  
 **What’s next:**
