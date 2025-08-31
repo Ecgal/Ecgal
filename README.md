@@ -13,7 +13,6 @@ A simple music player app I built in Swift for my father. It’s designed to be 
 **Highlights:**
 - Local audio playback
 - Custom UI designed for accessibility
-- No fluff — just works
 
 ---
 
