@@ -15,6 +15,18 @@ A simple music player app I built in Swift for my father. It’s designed to be 
 - Custom UI designed for accessibility
 
 ---
+## Algorithms and Data Structures – Java  
+GitHub Repo: [https://github.com/Ecgal/Algorithms-and-Data-Structures](https://github.com/Ecgal/Algorithms-and-Data-Structures)
+
+A collection of Java assignments from my graduate level Algorithms and Data Structures course. The projects cover topics like sorting algorithms, data structures, and graph-based pathfinding  all written from scratch with JUnit tested implementations.
+
+**Tech:** Java, JUnit 5  
+**Highlights:**
+- Implemented core data structures including BSTs, hash tables, stacks, and sets  
+- Built sorting algorithms (MergeSort, QuickSort) and analyzed performance  
+- Created pathfinding and computational geometry tools (BFS, BSP trees)  
+- Emphasized clean design, testing, and runtime efficiency  
+---
 
 ## MSD Script – Expression Parser in C++  
 GitHub Repo: (https://github.com/Ecgal/MSDScript)
@@ -57,17 +69,4 @@ Still finalizing the front end, but the core engine is up and running. This app 
 - Website: [evanngallagher.com](https://www.evanngallagher.com)  
 - LinkedIn: [evan-gallagher](https://www.linkedin.com/in/evan-gallagher-912428148)  
 
-<!--
-**Ecgal/Ecgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
