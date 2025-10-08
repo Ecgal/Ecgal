@@ -27,6 +27,20 @@ A collection of Java assignments from my graduate level Algorithms and Data Stru
 - Created pathfinding and computational geometry tools (BFS, BSP trees)  
 - Emphasized clean design, testing, and runtime efficiency  
 ---
+## Data Systems & Applications – C# / .NET Projects  
+GitHub Repo: [https://github.com/Ecgal/Data-Systems-and-Applications](https://github.com/Ecgal/Data-Systems-and-Applications)
+
+A collection of projects built for my Data Systems & Applications course, focused on relational databases, backend logic, and full stack C# development.  
+Each project explores a different layer of modern dat driven software, from SQL schema design to LINQ based querying and web app integration.
+
+**Tech:** C#, .NET MAUI, ASP.NET, LINQ, MySQL  
+
+**Highlights:**
+- **Chess Database Browser:** Parsed PGN files, built a relational chess database, and created a C# GUI for searching games  
+- **Learning Management System:** Implemented backend controllers, LINQ queries, and grade automation in an ASP.NET LMS  
+- **Library Web Server:** Built a web-based book checkout system with LINQ queries and dynamic JSON responses  
+
+___
 ## Java Chatroom Server – Full Stack Messaging App  
 GitHub Repo: [https://github.com/Ecgal/JavaChatroom](https://github.com/Ecgal/JavaChatroom)
 
