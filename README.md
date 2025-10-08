@@ -27,7 +27,20 @@ A collection of Java assignments from my graduate level Algorithms and Data Stru
 - Created pathfinding and computational geometry tools (BFS, BSP trees)  
 - Emphasized clean design, testing, and runtime efficiency  
 ---
+## Java Chatroom Server – Full Stack Messaging App  
+GitHub Repo: [https://github.com/Ecgal/JavaChatroom](https://github.com/Ecgal/JavaChatroom)
 
+A multi platform chatroom built from scratch with a Java backend, JavaScript web client, and React Native mobile app.  
+It supports real time communication across devices through socket connections and demonstrates full stack networking.
+
+**Tech:** Java, React Native, JavaScript, WebSockets  
+**Highlights:**
+- Multithreaded Java server that handles concurrent clients  
+- Browser based chat client with live message updates  
+- React Native mobile app connecting to the same server  
+- Real time communication using socket connections  
+
+---
 ## MSD Script – Expression Parser in C++  
 GitHub Repo: (https://github.com/Ecgal/MSDScript)
 
