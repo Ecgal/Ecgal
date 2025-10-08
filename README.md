@@ -39,6 +39,22 @@ Each project explores a different layer of modern dat driven software, from SQL 
 - **Chess Database Browser:** Parsed PGN files, built a relational chess database, and created a C# GUI for searching games  
 - **Learning Management System:** Implemented backend controllers, LINQ queries, and grade automation in an ASP.NET LMS  
 - **Library Web Server:** Built a web-based book checkout system with LINQ queries and dynamic JSON responses  
+___
+
+## Machine Learning & Data Visualization – Python / PyTorch / D3  
+GitHub Repo: [https://github.com/Ecgal/ML-Data-Vis](https://github.com/Ecgal/ML-Data-Vis)
+
+A collection of projects exploring data analysis, machine learning, and interactive visualization.  
+These assignments span the full ML pipeline, from data cleaning and statistical modeling to neural networks and browser based visualizations.
+
+**Tech:** Python, Pandas, scikit-learn, PyTorch, Matplotlib, D3.js  
+
+**Highlights:**
+- **Bike Rental Forecasting (Seoul):** Modeled rental demand based on weather, temperature, and seasonality  
+- **Real Estate Regression (SLC):** Built linear and multilinear models to predict housing prices and interpret key predictors  
+- **HackerNews Analysis:** Scraped and regressed article data to understand engagement and front-page likelihood  
+- **Character Classification:** Trained CNNs in PyTorch to recognize printed letters and experimented with denoising autoencoders  
+- **Algorithm Visualization:** Created an interactive D3 visualization demonstrating sorting and search algorithms  
 
 ___
 ## Java Chatroom Server – Full Stack Messaging App  
