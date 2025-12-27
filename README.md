@@ -15,6 +15,27 @@ A simple music player app I built in Swift for my father. It’s designed to be 
 - Custom UI designed for accessibility
 
 ---
+
+## VisionDetect – Local & Server AI Object Detection Android App  
+GitHub Repo: [https://github.com/Ecgal/VisionDetect](https://github.com/Ecgal/VisionDetect)
+
+A full-stack Android application that performs real time object detection locally using MLKit or TensorFlow Lite (EfficientDet),  
+and also supports server side AI interest analysis using Meta’s DINOv2 model through a FastAPI + PyTorch backend.  
+
+The app blends creative UI design with robust AI engineering, featuring a SciFi inspired interface and dual inference modes.
+
+**Tech:** Kotlin, Jetpack Compose, CameraX, TFLite (EfficientDet), MLKit, FastAPI, PyTorch, DINOv2, Ktor, LDAP, Docker  
+
+**Highlights:**
+- Real time on device detection with bounding boxes and confidence overlays  
+- Secure user authentication through LDAP and JWT  
+- Backend image analysis pipeline using DINOv2 for heatmap generation  
+- Fully Dockerized backend and model servers  
+- Polished HUD-inspired UI with glowing cyan design  
+- Built for both local inference and cloud-assisted AI workflows  
+
+
+---
 ## Algorithms and Data Structures – Java  
 GitHub Repo: [https://github.com/Ecgal/Algorithms-and-Data-Structures](https://github.com/Ecgal/Algorithms-and-Data-Structures)
 
