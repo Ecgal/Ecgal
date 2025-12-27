@@ -14,6 +14,12 @@ A simple music player app I built in Swift for my father. It’s designed to be 
 - Local audio playback
 - Custom UI designed for accessibility
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ecgal/VisionDetect/main/Assets/ScreenGrab1.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ecgal/VisionDetect/main/Assets/ScreenGrab3.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ecgal/VisionDetect/Assets/ScreenGrab5.png" width="200"/>
+</p>
+
 ---
 
 ## VisionDetect – Local & Server AI Object Detection Android App  
