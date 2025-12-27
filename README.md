@@ -16,8 +16,8 @@ A simple music player app I built in Swift for my father. It’s designed to be 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ecgal/GoodStuff-MusicPlayer/main/Assets/ScreenGrab1.PNG" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ecgal/GoodStuff/main/Assets/ScreenGrab3.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ecgal/GoodStuff/main/Assets/ScreenGrab5.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ecgal/GoodStuff-MusicPlayer/main/Assets/ScreenGrab3.PNG" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ecgal/GoodStuff-MusicPlayer/main/Assets/ScreenGrab5.PNG" width="200"/>
 </p>
 
 ---
