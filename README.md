@@ -34,6 +34,11 @@ The app blends creative UI design with robust AI engineering, featuring a SciFi 
 - Polished HUD-inspired UI with glowing cyan design  
 - Built for both local inference and cloud-assisted AI workflows  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ecgal/VisionDetect/main/images/image_1.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Ecgal/VisionDetect/main/images/Image_3.png" width="300"/>
+</p>
+
 
 ---
 ## Algorithms and Data Structures – Java  
