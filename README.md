@@ -4,10 +4,30 @@ Hey, I’m Evan, a software developer with a background in marketing and product
 
 ---
 
+## AI Agent Testing Framework – Adversarial Evaluation Platform for GUI-Based AI Agents  
+GitHub Repo: [https://github.com/Ecgal/AI-Agent-Testing-Framework](https://github.com/Ecgal/AI-Agent-Testing-Framework)
+
+A interfacable evaluation framework for testing gui based AI agents (e.g., Browser Use, LiteWebAgent, SeeAct) in controlled adversarial environments.  
+The system automates agent execution across simulated web interfaces, records outcomes, and provides interactive dashboards for analysis.  
+Originally developed as my Master’s capstone project and now maintained collaboratively with my team.
+
+**Tech:** Python, FastAPI, Dash, HTML/JavaScript, Docker  
+
+**Highlights:**  
+- Automated testing of multiple AI agents across adversarial HTML environments (AdInject, Relaxed/Strict Injection attacks)  
+- Modular controller architecture for local and API-based models  
+- Real time metric signaling between browser environments and backend servers  
+- Structured logging pipeline with per task summaries and JSON based result storage  
+- Interactive dashboard for visualizing success rates, attack resilience, and performance trends  
+- Unified orchestration system for reproducible multi agent benchmarking  
+
+
+---
+
 ## GoodStuff – iOS Music Player  
 GitHub Repo:(https://github.com/Ecgal/GoodStuff-MusicPlayer)
 
-A simple music player app I built in Swift for my father. It’s designed to be clean, minimal, and easy to use, focused on offline playback and a straightforward UI, dessigned with older users in mind.
+A simple music player app I built in Swift for my father. It’s designed to be clean, minimal, and easy to use, focused on offline playback and a simple UI, dessigned with older users in mind.
 
 **Tech:** Swift, UIKit  
 **Highlights:**
@@ -51,7 +71,7 @@ The app blends creative UI design with robust AI engineering, featuring a SciFi 
 ## Algorithms and Data Structures – Java  
 GitHub Repo: [https://github.com/Ecgal/Algorithms-and-Data-Structures](https://github.com/Ecgal/Algorithms-and-Data-Structures)
 
-A collection of Java assignments from my graduate level Algorithms and Data Structures course. The projects cover topics like sorting algorithms, data structures, and graph-based pathfinding  all written from scratch with JUnit tested implementations.
+A collection of Java assignments from my graduate level Algorithms and Data Structures course. The projects cover topics like sorting algorithms, data structures, and graph based pathfinding  all written from scratch with JUnit tested implementations.
 
 **Tech:** Java, JUnit 5  
 **Highlights:**
