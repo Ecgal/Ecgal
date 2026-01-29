@@ -5,7 +5,7 @@ Hey, I’m Evan, a software developer with a background in marketing and product
 ---
 
 ## AI Agent Testing Framework – Adversarial Evaluation Platform for GUI-Based AI Agents  
-GitHub Repo: [https://github.com/Ecgal/AI-Agent-Testing-Framework](https://github.com/Ecgal/AI-Agent-Testing-Framework)
+GitHub Repo: [https://github.com/Ecgal/AI-Agent-Testing-Framework](https://github.com/Ecgal/6957_AI_Agent_Framework/blob/main/README.md)
 
 A interfacable evaluation framework for testing gui based AI agents (e.g., Browser Use, LiteWebAgent, SeeAct) in controlled adversarial environments.  
 The system automates agent execution across simulated web interfaces, records outcomes, and provides interactive dashboards for analysis.  
